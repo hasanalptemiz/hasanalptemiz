@@ -1,4 +1,4 @@
-<img align="left" src="[https://in.pinterest.com/pin/449867450293832992/](https://i.pinimg.com/originals/bb/17/6b/bb176b08e99bdcc02f3c646585791deb.jpg]">
+<img align="left" src="https://media.tenor.com/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif">
 
 ### Hey!
 

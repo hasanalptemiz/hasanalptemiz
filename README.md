@@ -1,5 +1,27 @@
-<img align="left" src="https://i.pinimg.com/564x/24/1f/ba/241fba50909b09e0fd58f1f0e30f9c63.jpg">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-container {
+            width: 200px; /* Set the width of the container */
+            height: 200px; /* Set the height of the container */
+            overflow: hidden; /* Hide the overflow if the image is larger */
+        }
 
+        .image-container img {
+            width: 100%; /* Make the image fill the width of the container */
+            height: auto; /* Maintain the aspect ratio */
+            display: block; /* Remove any extra spacing */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://i.pinimg.com/564x/24/1f/ba/241fba50909b09e0fd58f1f0e30f9c63.jpg" alt="Small Image">
+    </div>
+</body>
+</html>
 ### Hey!
 
 I am **Hasanalp**. I have been developing myself about backend technologies for about 2 to 3 years and continue to develop. 

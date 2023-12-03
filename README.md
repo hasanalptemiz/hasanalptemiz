@@ -1,4 +1,4 @@
-<img align="left" src="https://image.pngaaa.com/885/5367885-small.png">
+<img align="left" src="https://image.pngaaa.com/885/5367885-small.jpg">
 
 ### Hey!
 

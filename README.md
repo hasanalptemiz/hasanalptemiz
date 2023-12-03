@@ -4,17 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .image-container {
-            width: 200px; /* Set the width of the container */
-            height: 200px; /* Set the height of the container */
+            width: 50px; /* Set the width of the container */
+            height: 50px; /* Set the height of the container */
             overflow: hidden; /* Hide the overflow if the image is larger */
         }
 
-        .image-container img {
-            width: 100%; /* Make the image fill the width of the container */
-            height: auto; /* Maintain the aspect ratio */
-            display: block; /* Remove any extra spacing */
-        }
-    </style>
+ 
 </head>
 <body>
     <div class="image-container">

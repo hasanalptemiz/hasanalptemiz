@@ -1,4 +1,4 @@
-<img align="left" src="[https://media.tenor.com/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif](https://i.pinimg.com/564x/bb/17/6b/bb176b08e99bdcc02f3c646585791deb.jpg)">
+<img align="left" src="[[https://media.tenor.com/PyRd_9AofrcAAAAC/tomioka-tomioka-giyu.gif](https://i.pinimg.com/564x/bb/17/6b/bb176b08e99bdcc02f3c646585791deb.jpg)](https://media.tenor.com/SIa1DVDh2FIAAAAC/ok.gif)">
 
 ### Hey!
 

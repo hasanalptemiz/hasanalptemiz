@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">A 24-year-old tech enthusiast. On my github you'll often see backend projects or prototypes that I've released as open source.  You can reach me through my work related linkedin or my business email.</p>
+<p align="left">A 24-year-old tech enthusiast. On my github you'll often see backend projects or prototypes that I've released as open source.  You can reach me for business inquiries from linkedin or my email.</p>
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Yo! I'm Hasanalp a.k.a Percival</h2>
+<h2 align="left">Yo. I'm Hasanalp a.k.a Percival</h2>
 
 ###
 

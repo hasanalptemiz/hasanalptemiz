@@ -1,4 +1,4 @@
-<h2 align="left">Yo! I'm Hasanalp</h2>
+<h2 align="left">Yo! I'm Hasanalp a.k.a Percival</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">Summary About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Language,Franworks and Tools</h3>
+<h3 align="left">Language,Franworks and Tools</h3>
 
 ###
 
@@ -73,9 +73,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanalptemiz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanalptemiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanalptemiz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanalptemiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###

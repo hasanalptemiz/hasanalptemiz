@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="280" src="https://i.pinimg.com/564x/24/1f/ba/241fba50909b09e0fd58f1f0e30f9c63.jpg"  />
+<img align="right" height="280" src="https://gifsec.com/wp-content/uploads/2022/10/giyuu-gif-13.gif"  />
 
 ###
 

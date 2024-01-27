@@ -81,8 +81,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasanalptemiz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanalptemiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+
  
   
 [![views](https://komarev.com/ghpvc/?username=hasanalptemiz&style=flat&color=313131&label=views)](https://github.com/hasanalptemiz)

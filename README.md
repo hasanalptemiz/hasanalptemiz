@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://gifsec.com/wp-content/uploads/2022/10/giyuu-gif-13.gif"  />
+
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.codewars.com/users/Percivalry" target="_blank">
     <img src="https://www.codewars.com/users/Percivalry/badges/micro" height="25" alt="codewars logo"  />
   </a>
@@ -80,9 +80,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanalptemiz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanalptemiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanalptemiz&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hasanalptemiz&locale=en&mode=weekly&theme=graywhite&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanalptemiz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
+ 
   
 [![views](https://komarev.com/ghpvc/?username=hasanalptemiz&style=flat&color=313131&label=views)](https://github.com/hasanalptemiz)
 

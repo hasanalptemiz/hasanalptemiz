@@ -35,14 +35,14 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" /> 
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="mongodb logo"  />
